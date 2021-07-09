@@ -77607,7 +77607,7 @@ exports.CreateTouchpointViewState = CreateTouchpointViewState;
 
 Object.defineProperty(exports, "__esModule", { value: true });
 var ContentItemInfo =  (function () {
-    // the dataItem is actually of type DataItem located in "progress-sitefinity-adminapp-sdk/app/api/v1";
+    // the dataItem is actually of type DataItem located in "@progress/sitefinity-adminapp-sdk/app/api/v1";
     // any type is used as DataItem types does not have the this.dataItem.childTypes array exposed
     function ContentItemInfo(dataItem) {
         this.DefaultFieldName = dataItem.metadata.defaultFieldName;
@@ -79016,7 +79016,7 @@ module.exports = __iris_require__('./node_modules/rxjs/_esm5/operators/index.js'
 
  (function(module, exports, __webpack_require__) {
 
-module.exports = __iris_require__('./node_modules/progress-sitefinity-adminapp-sdk/app/api/v1/index.js')
+module.exports = __iris_require__('./node_modules/@progress/sitefinity-adminapp-sdk/app/api/v1/index.js')
 
  }),
 

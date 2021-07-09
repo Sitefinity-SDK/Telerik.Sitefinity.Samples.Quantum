@@ -10331,6 +10331,10 @@ video {
   max-width: 100%;
 }
 
+img {
+  height: auto;
+}
+
 .u-toe {
   overflow: hidden;
   text-overflow: ellipsis;
